@@ -1,0 +1,56 @@
+{
+    "global": {
+        "okuna": "Okuna"
+    },
+    "header": {
+        "home": "主页",
+        "about_us": "关于我们",
+        "manifesto": "Manifesto",
+        "contact_us": "联系我们",
+        "jobs": "Jobs",
+        "faq": "FAQ",
+        "press": "Press",
+        "language": "Language",
+        "blog": "Blog",
+        "angel": "Angel"
+    },
+    "footer": {
+        "title": "欢迎光临Alice!",
+        "intro": "the introduction of alice",
+        "report_vulnerability": "Report Vulnerability",
+        "twitter": "Twitter",
+        "github": "GitHub",
+        "reddit": "Reddit",
+        "gitter": "Gitter",
+        "linked_in": "LinkedIn",
+        "product_hunt": "Product Hunt",
+        "facebook": "Facebook",
+        "feature": "特性",
+        "privacy_policy": "隐私协议",
+        "about": "关于",
+        "sitemap": "站点地图",
+        "quick_links": "相关链接",
+        "support": "支持"
+    },
+    "hud": {
+        "share": "Share",
+        "share_fb": "Share on Facebook",
+        "share_twitter": "Share on Twitter",
+        "share_email": "Send e-mail",
+        "share_linkedin": "Share on LinkedIn",
+        "share_wa": "Share on Whatsapp",
+        "share_title": "Okuna. A social network for a better future.",
+        "share_description": "Honest, personal, privacy-friendly and ethically sustained.",
+        "share_quote": "Join the revolution! Coming mid 2019."
+    },
+    "meta": {
+        "home": "Home",
+        "about-us": "About us",
+        "contact-us": "Contact us",
+        "faq": "FAQ",
+        "angel": "Angel",
+        "getapp": "Get App Link",
+        "vulnerability-report": "Report vulnerability",
+        "manifesto": "Manifesto"
+    }
+}
