@@ -2,6 +2,14 @@ const webpack = require('webpack');
 
 module.exports = {
   
+  baseUrl: '/Shawn-Yu-1.github.io/Alice.github.io/',
+  outputDir: 'dist',
+  assetsDir: '',
+  indexPath: 'index.html',
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/Shawn-Yu-1.github.io/Alice.github.io/'
+    : '/',
+
   configureWebpack: {
     // Set up all the aliases we use in our app.
     plugins: [
@@ -23,3 +31,12 @@ module.exports = {
     sourceMap: process.env.NODE_ENV !== 'production'
   }
 };
+
+// export default defineConfig({
+//   // ...
+//   base: "/vue-demo/",
+  
+//   build: {
+//     outDir: "docs"
+//   }
+// })
